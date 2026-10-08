@@ -1,10 +1,13 @@
 # 🚀 Hi, I'm Sun Longfei (xiaobailong653) 👋
 
 <p align="left">
-  <a href="https://www.upwork.com/freelancers/~01c73c38a17400f8eb"><img src="https://shields.io" alt="Upwork Profile"></a>
-  <img src="https://shields.io" alt="Role">
+  <a href="https://www.upwork.com/freelancers/~01c73c38a17400f8eb" target="_blank">
+    <img src="https://shields.io" alt="Upwork Profile">
+  </a>
+  <img src="https://shields.io_|_Senior_Full_Stack_&_AI_Engineer-blue?style=for-the-badge" alt="Role">
   <img src="https://shields.io" alt="Location">
 </p>
+
 
 ---
 
