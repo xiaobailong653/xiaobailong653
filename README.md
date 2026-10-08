@@ -1,16 +1,15 @@
-## Hi there 👋
+# 🚀 Hi, I'm Sun Longfei (xiaobailong653) 
 
-<!--
-**xiaobailong653/xiaobailong653** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+I am a Senior Full-Stack Developer & CTO specializing in web, mobile, and AI integration. With extensive experience leading tech teams and architecting high-performance applications, I help clients bridge the gap between AI tech and real-world software solutions.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Frontend / Client:** Flutter, Vue 3, React, JavaScript, TypeScript, HTML/CSS
+- **Backend / Cloud:** Python, Node.js, Cloud Infrastructure, MCP (Model Context Protocol) Integration
+- **Specialties:** Custom Sheet Music Engines (Rendering & Typesetting), AI Application Development & System Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Featured Technical Capabilities
+- **Advanced Music Tech:** Independently architected and optimized a custom music score engine with complex rendering, data matching, and typesetting capabilities.
+- **AI & Automation:** Skilled in building AI Agents, Gemini/Claude API integration, and full-stack SaaS architectures.
+
+📧 **Available for remote freelancing on Upwork! Feel free to connect.**
