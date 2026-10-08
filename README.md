@@ -1,13 +1,6 @@
 # 🚀 Hi, I'm Sun Longfei (xiaobailong653) 👋
 
-<p align="left">
-  <a href="https://www.upwork.com/freelancers/~01c73c38a17400f8eb" target="_blank">
-    <img src="https://shields.io" alt="Upwork Profile">
-  </a>
-  <img src="https://shields.io_|_Senior_Full_Stack_&_AI_Engineer-blue?style=for-the-badge" alt="Role">
-  <img src="https://shields.io" alt="Location">
-</p>
-
+> **[💼 Hire Me on Upwork](https://upwork.com)** | **📌 Role:** CTO & Senior Full-Stack & AI Engineer | **📍 Location:** Beijing, China (GMT+8)
 
 ---
 
@@ -34,24 +27,15 @@ As a freelancer on Upwork, I focus on delivering scalable architectures, clean c
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | ![Python](https://shields.io) ![Go](https://shields.io) ![C++](https://shields.io) ![JavaScript](https://shields.io) ![TypeScript](https://shields.io) ![Java](https://shields.io) ![PHP](https://shields.io) |
-| **Frontend & Mobile** | ![Flutter](https://shields.io) ![Vue.js](https://shields.io) ![React](https://shields.io) ![HTML5](https://shields.io) ![CSS3](https://shields.io) |
-| **Backend & Infra** | ![Node.js](https://shields.io) ![Docker](https://shields.io) ![MySQL](https://shields.io) ![PostgreSQL](https://shields.io) ![Redis](https://shields.io) |
-| **AI & Ecosystems** | ![Cursor](https://shields.io) ![Claude](https://shields.io) `MCP (Model Context Protocol)` `LLM Integration` |
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://vercel.app" alt="GitHub Stats" height="180" />
-  <img src="https://vercel.app" alt="Top Languages" height="180" />
-</p>
+| **Languages** | `Python` `Go` `C++` `JavaScript` `TypeScript` `Java` `PHP` |
+| **Frontend & Mobile** | `Flutter` `Vue.js` `React` `HTML5` `CSS3` |
+| **Backend & Infra** | `Node.js` `Docker` `MySQL` `PostgreSQL` `Redis` |
+| **AI & Ecosystems** | `Cursor` `Claude Code` `MCP (Model Context Protocol)` `LLM Integration` |
 
 ---
 
 ### 📬 Let's Connect!
-*   **Upwork Profile**: [Hire Me on Upwork](https://www.upwork.com/freelancers/~01c73c38a17400f8eb)
-*   **Business Contact**: [孫龙飞 (xiaobailong653)](https://github.com/xiaobailong653)
+*   **Upwork Profile**: [Click Here to View My Upwork Profile](https://upwork.com)
+*   **Business Contact**: [孫龙飞 (xiaobailong653)](https://github.com)
 
 *Feel free to explore my repositories or invite me to clear out tech blockers in your upcoming projects!*
